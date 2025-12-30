@@ -80,7 +80,7 @@ O **Planner** é uma solução robusta para gestão financeira pessoal que permi
 - Soft delete para histórico completo
 - Auditoria automática de registros
 
-## 🏗 Arquitetura
+## Arquitetura
 
 O projeto segue os princípios de **Clean Architecture**, garantindo separação de responsabilidades, testabilidade e manutenibilidade:
 
