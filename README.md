@@ -382,16 +382,6 @@ planner/
 
 >  **Documentação Completa**: Acesse `/swagger` após iniciar a aplicação para ver todos os endpoints e testar a API interativamente.
 
-## Testes
-
-```bash
-# Executar todos os testes
-dotnet test
-
-# Executar com cobertura
-dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
-```
-
 ##  Contribuindo
 
 Contribuições são sempre bem-vindas! Para contribuir:
