@@ -1,4 +1,4 @@
-﻿#  Planner - Sistema de Gestão Financeira Pessoal
+﻿# 💰 Planner - Sistema de Gestão Financeira Pessoal
 
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat&logo=dotnet)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -7,7 +7,9 @@
 
 Um sistema completo de planejamento e controle financeiro pessoal construído com .NET 8, seguindo os princípios de Clean Architecture e Domain-Driven Design (DDD).
 
-##  Índice
+> 🎨 **Frontend**: Este é o repositório do backend. Para acessar a aplicação frontend em Angular, visite: [finance-planner-angular](https://github.com/Everton-Buenno/finance-planner-angular)
+
+## 📋 Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Funcionalidades](#-funcionalidades)
@@ -19,10 +21,11 @@ Um sistema completo de planejamento e controle financeiro pessoal construído co
 - [Uso](#-uso)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [API Endpoints](#-api-endpoints)
+- [Repositórios Relacionados](#-repositórios-relacionados)
 - [Contribuindo](#-contribuindo)
 - [Licença](#-licença)
 
-##  Sobre o Projeto
+## 🎯 Sobre o Projeto
 
 O **Planner** é uma solução robusta para gestão financeira pessoal que permite aos usuários controlar suas finanças de forma completa e organizada. O sistema oferece suporte para múltiplas contas bancárias, categorização de transações, gestão de cartões de crédito e análise financeira detalhada.
 
@@ -382,7 +385,29 @@ planner/
 
 >  **Documentação Completa**: Acesse `/swagger` após iniciar a aplicação para ver todos os endpoints e testar a API interativamente.
 
-##  Contribuindo
+## 🔗 Repositórios Relacionados
+
+Este projeto é composto por dois repositórios:
+
+### Backend (Este Repositório)
+**[finance-planner-dotnet](https://github.com/Everton-Buenno/finance-planner-dotnet)**
+- API RESTful construída com .NET 8
+- Clean Architecture + DDD
+- PostgreSQL + Entity Framework Core
+- Autenticação JWT
+- Documentação com Swagger
+
+### Frontend
+**[finance-planner-angular](https://github.com/Everton-Buenno/finance-planner-angular)**
+- Interface de usuário moderna e responsiva
+- Desenvolvida com Angular
+- Integração completa com a API
+- Dashboards interativos
+- Gestão visual de finanças
+
+> 💡 **Dica**: Para executar o sistema completo, clone ambos os repositórios e siga as instruções de instalação de cada um.
+
+## 🤝 Contribuindo
 
 Contribuições são sempre bem-vindas! Para contribuir:
 
@@ -399,18 +424,18 @@ Contribuições são sempre bem-vindas! Para contribuir:
 - Atualize a documentação quando necessário
 - Mantenha commits limpos e descritivos
 
-##  Licença
+## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.txt) para mais detalhes.
 
-##  Autor
+## 👤 Autor
 
 **Everton Bueno**
 
 - GitHub: [@Everton-Buenno](https://github.com/Everton-Buenno)
 - LinkedIn: [Everton Bueno](https://www.linkedin.com/in/everton-bueno/)
 
-##  Agradecimentos
+## 🙏 Agradecimentos
 
 - Inspirado nas melhores práticas de Clean Architecture
 - Comunidade .NET pelo suporte e recursos
@@ -420,4 +445,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.txt) par
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
 
-**Desenvolvido usando .NET 8**
+**Desenvolvido com ❤️ usando .NET 8**
