@@ -80,7 +80,7 @@ O **Planner** é uma solução robusta para gestão financeira pessoal que permi
 - Soft delete para histórico completo
 - Auditoria automática de registros
 
-## 🏗 Arquitetura
+## Arquitetura
 
 O projeto segue os princípios de **Clean Architecture**, garantindo separação de responsabilidades, testabilidade e manutenibilidade:
 
@@ -381,16 +381,6 @@ planner/
 - `GET /api/dashboard/{userId}` - Obter dados do dashboard
 
 >  **Documentação Completa**: Acesse `/swagger` após iniciar a aplicação para ver todos os endpoints e testar a API interativamente.
-
-## Testes
-
-```bash
-# Executar todos os testes
-dotnet test
-
-# Executar com cobertura
-dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
-```
 
 ##  Contribuindo
 
