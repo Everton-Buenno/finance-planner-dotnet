@@ -1,0 +1,1347 @@
+[
+  {
+    "bankId": 1,
+    "name": "ABN AMRO",
+    "pathImage": "/bancos/abnamro-1.png"
+  },
+  {
+    "bankId": 2,
+    "name": "AGBank",
+    "pathImage": "/bancos/agbank-1.png"
+  },
+  {
+    "bankId": 3,
+    "name": "AKBank",
+    "pathImage": "/bancos/abank-1.png"
+  },
+  {
+    "bankId": 4,
+    "name": "AMP Personal Banking",
+    "pathImage": "/bancos/amppersonalbanking-1.png"
+  },
+  {
+    "bankId": 5,
+    "name": "ANZ",
+    "pathImage": "/bancos/anz-1.png"
+  },
+  {
+    "bankId": 6,
+    "name": "ASN",
+    "pathImage": "/bancos/asn-1.png"
+  },
+  {
+    "bankId": 7,
+    "name": "Absolut Bank",
+    "pathImage": "/bancos/absolutbank.png"
+  },
+  {
+    "bankId": 8,
+    "name": "Agibank",
+    "pathImage": "/bancos/agibank-1.png"
+  },
+  {
+    "bankId": 9,
+    "name": "Agribank",
+    "pathImage": "/bancos/agribank-1.png"
+  },
+  {
+    "bankId": 10,
+    "name": "Aktia",
+    "pathImage": "/bancos/aktia-1.png"
+  },
+  {
+    "bankId": 11,
+    "name": "Alfa",
+    "pathImage": "/bancos/alfabank.png"
+  },
+  {
+    "bankId": 12,
+    "name": "Alpha",
+    "pathImage": "/bancos/alphabank-1.png"
+  },
+  {
+    "bankId": 13,
+    "name": "Amazonia",
+    "pathImage": "/bancos/amazonia.png"
+  },
+  {
+    "bankId": 14,
+    "name": "Ame Digital",
+    "pathImage": "/bancos/ame-1.png"
+  },
+  {
+    "bankId": 15,
+    "name": "American Express",
+    "pathImage": "/bancos/amex.png"
+  },
+  {
+    "bankId": 16,
+    "name": "Americanas",
+    "pathImage": "/bancos/lojasamericanas-1.png"
+  },
+  {
+    "bankId": 17,
+    "name": "Ameriprise Financial",
+    "pathImage": "/bancos/ameriprisefinancial-1.png"
+  },
+  {
+    "bankId": 18,
+    "name": "Attica",
+    "pathImage": "/bancos/atticabank-1.png"
+  },
+  {
+    "bankId": 19,
+    "name": "Aura",
+    "pathImage": "/bancos/aura-15.png"
+  },
+  {
+    "bankId": 20,
+    "name": "BBVA",
+    "pathImage": "/bancos/bbva-1.png"
+  },
+  {
+    "bankId": 21,
+    "name": "BCA",
+    "pathImage": "/bancos/bca-1.png"
+  },
+  {
+    "bankId": 22,
+    "name": "BIDV",
+    "pathImage": "/bancos/bidv-1.png"
+  },
+  {
+    "bankId": 23,
+    "name": "BMG",
+    "pathImage": "/bancos/bmg.png"
+  },
+  {
+    "bankId": 24,
+    "name": "BMO",
+    "pathImage": "/bancos/bmo-1.png"
+  },
+  {
+    "bankId": 25,
+    "name": "BNI",
+    "pathImage": "/bancos/bni-1.png"
+  },
+  {
+    "bankId": 26,
+    "name": "BNL",
+    "pathImage": "/bancos/bnl.png"
+  },
+  {
+    "bankId": 27,
+    "name": "BNP Paribas",
+    "pathImage": "/bancos/bnpparibas-1.png"
+  },
+  {
+    "bankId": 28,
+    "name": "BOQ",
+    "pathImage": "/bancos/boq-1.png"
+  },
+  {
+    "bankId": 29,
+    "name": "BPER Banca",
+    "pathImage": "/bancos/bperbanca.png"
+  },
+  {
+    "bankId": 30,
+    "name": "BPI",
+    "pathImage": "/bancos/bpi-1.png"
+  },
+  {
+    "bankId": 31,
+    "name": "BRB",
+    "pathImage": "/bancos/brb.png"
+  },
+  {
+    "bankId": 32,
+    "name": "BRDE",
+    "pathImage": "/bancos/brde-4.png"
+  },
+  {
+    "bankId": 33,
+    "name": "BRI",
+    "pathImage": "/bancos/bankmandiri-1.png"
+  },
+  {
+    "bankId": 34,
+    "name": "BS2",
+    "pathImage": "/bancos/bs2-1.png"
+  },
+  {
+    "bankId": 35,
+    "name": "BTG Pactual",
+    "pathImage": "/bancos/btgpactual-1.png"
+  },
+  {
+    "bankId": 36,
+    "name": "Banamex",
+    "pathImage": "/bancos/banamex-1.png"
+  },
+  {
+    "bankId": 37,
+    "name": "Banca Carige",
+    "pathImage": "/bancos/bancacarige.png"
+  },
+  {
+    "bankId": 38,
+    "name": "Banca DItalia",
+    "pathImage": "/bancos/bancaditalia.png"
+  },
+  {
+    "bankId": 39,
+    "name": "Banca MPS",
+    "pathImage": "/bancos/bancamps-1.png"
+  },
+  {
+    "bankId": 40,
+    "name": "Banca Mediolanum",
+    "pathImage": "/bancos/bancamediolanum.png"
+  },
+  {
+    "bankId": 41,
+    "name": "Banca Populare di Sondrio",
+    "pathImage": "/bancos/bancaopopularedisondrio.png"
+  },
+  {
+    "bankId": 42,
+    "name": "Banco BPM",
+    "pathImage": "/bancos/bancobpm.png"
+  },
+  {
+    "bankId": 43,
+    "name": "Banco Cacique",
+    "pathImage": "/bancos/cacique.jpg"
+  },
+  {
+    "bankId": 44,
+    "name": "Banco Inter",
+    "pathImage": "/bancos/intermedium.png"
+  },
+  {
+    "bankId": 45,
+    "name": "Banco PAN",
+    "pathImage": "/bancos/pan.png"
+  },
+  {
+    "bankId": 46,
+    "name": "Banco Votorantim",
+    "pathImage": "/bancos/votorantim.png"
+  },
+  {
+    "bankId": 47,
+    "name": "Banco de Bogotá",
+    "pathImage": "/bancos/bancodebogota-1.png"
+  },
+  {
+    "bankId": 48,
+    "name": "Banco de Occident",
+    "pathImage": "/bancos/bancodeoccident-1.png"
+  },
+  {
+    "bankId": 49,
+    "name": "Banco del Bajio",
+    "pathImage": "/bancos/bancodelbajio-1.png"
+  },
+  {
+    "bankId": 50,
+    "name": "Banco do Brasil",
+    "pathImage": "/bancos/bb.png"
+  },
+  {
+    "bankId": 51,
+    "name": "Banco do Nordeste",
+    "pathImage": "/bancos/nordeste.png"
+  },
+  {
+    "bankId": 52,
+    "name": "BancoPosta",
+    "pathImage": "/bancos/bancoposta.png"
+  },
+  {
+    "bankId": 53,
+    "name": "Bancolombia",
+    "pathImage": "/bancos/bancolombia-1.png"
+  },
+  {
+    "bankId": 54,
+    "name": "Banese",
+    "pathImage": "/bancos/banese.jpg"
+  },
+  {
+    "bankId": 55,
+    "name": "Banestes",
+    "pathImage": "/bancos/banestes.png"
+  },
+  {
+    "bankId": 56,
+    "name": "Bangkok Bank",
+    "pathImage": "/bancos/bangkokbank-1.png"
+  },
+  {
+    "bankId": 57,
+    "name": "Banif",
+    "pathImage": "/bancos/banif.png"
+  },
+  {
+    "bankId": 58,
+    "name": "Bank Norwegian",
+    "pathImage": "/bancos/banknorwegian-1.png"
+  },
+  {
+    "bankId": 59,
+    "name": "Bank Rakyat",
+    "pathImage": "/bancos/bankrakyat-1.png"
+  },
+  {
+    "bankId": 60,
+    "name": "Bank of Aland",
+    "pathImage": "/bancos/bankofaland-1.png"
+  },
+  {
+    "bankId": 61,
+    "name": "Bank of America",
+    "pathImage": "/bancos/bankofamerica.png"
+  },
+  {
+    "bankId": 62,
+    "name": "Bank of China",
+    "pathImage": "/bancos/bankofchina-1.png"
+  },
+  {
+    "bankId": 63,
+    "name": "Bankia",
+    "pathImage": "/bancos/bankia-1.png"
+  },
+  {
+    "bankId": 64,
+    "name": "Bankwest",
+    "pathImage": "/bancos/bankwest-1.png"
+  },
+  {
+    "bankId": 65,
+    "name": "Banorte",
+    "pathImage": "/bancos/banorte-1.png"
+  },
+  {
+    "bankId": 66,
+    "name": "Banpara",
+    "pathImage": "/bancos/banpara.png"
+  },
+  {
+    "bankId": 67,
+    "name": "Banrisul",
+    "pathImage": "/bancos/banrisul.png"
+  },
+  {
+    "bankId": 68,
+    "name": "Barclays",
+    "pathImage": "/bancos/barclays-1.png"
+  },
+  {
+    "bankId": 69,
+    "name": "Bbm",
+    "pathImage": "/bancos/bbm.png"
+  },
+  {
+    "bankId": 70,
+    "name": "Ben Visa Vale",
+    "pathImage": "/bancos/benvisavale-1.png"
+  },
+  {
+    "bankId": 71,
+    "name": "Bendigo",
+    "pathImage": "/bancos/bendigobank-1.png"
+  },
+  {
+    "bankId": 72,
+    "name": "Bradesco",
+    "pathImage": "/bancos/bradesco.png"
+  },
+  {
+    "bankId": 73,
+    "name": "C6 Bank",
+    "pathImage": "/bancos/c6bank-2.png"
+  },
+  {
+    "bankId": 74,
+    "name": "CDB",
+    "pathImage": "/bancos/cdb-1.png"
+  },
+  {
+    "bankId": 75,
+    "name": "CDP",
+    "pathImage": "/bancos/cdp-1.png"
+  },
+  {
+    "bankId": 76,
+    "name": "CIBC",
+    "pathImage": "/bancos/cibc-1.png"
+  },
+  {
+    "bankId": 77,
+    "name": "CIMB Bank",
+    "pathImage": "/bancos/cimbbank-1.png"
+  },
+  {
+    "bankId": 78,
+    "name": "CIMB Niaga",
+    "pathImage": "/bancos/cimbniaga-1.png"
+  },
+  {
+    "bankId": 79,
+    "name": "CTT",
+    "pathImage": "/bancos/ctt-1.png"
+  },
+  {
+    "bankId": 80,
+    "name": "Caisse dEpargne",
+    "pathImage": "/bancos/caisse-1.png"
+  },
+  {
+    "bankId": 81,
+    "name": "Caixa",
+    "pathImage": "/bancos/caixa.png"
+  },
+  {
+    "bankId": 82,
+    "name": "Caixa Geral",
+    "pathImage": "/bancos/caixageral-1.png"
+  },
+  {
+    "bankId": 83,
+    "name": "CaixaBank",
+    "pathImage": "/bancos/caixabank-1.png"
+  },
+  {
+    "bankId": 84,
+    "name": "Caju",
+    "pathImage": "/bancos/caju-1.png"
+  },
+  {
+    "bankId": 85,
+    "name": "Capital One",
+    "pathImage": "/bancos/capitalone.png"
+  },
+  {
+    "bankId": 86,
+    "name": "Carteira",
+    "pathImage": "/bancos/carteira.jpg"
+  },
+  {
+    "bankId": 87,
+    "name": "Cassa Depositi e Prestiti",
+    "pathImage": "/bancos/cassadepositieprestiti.png"
+  },
+  {
+    "bankId": 88,
+    "name": "Cetelem",
+    "pathImage": "/bancos/cetelem-1.png"
+  },
+  {
+    "bankId": 89,
+    "name": "Charles Schwab",
+    "pathImage": "/bancos/charlesschwab.png"
+  },
+  {
+    "bankId": 90,
+    "name": "China Construction",
+    "pathImage": "/bancos/chinaconstructionbank-1.png"
+  },
+  {
+    "bankId": 91,
+    "name": "Citibank",
+    "pathImage": "/bancos/citibank.png"
+  },
+  {
+    "bankId": 92,
+    "name": "Clear",
+    "pathImage": "/bancos/clear.png"
+  },
+  {
+    "bankId": 93,
+    "name": "CommBank",
+    "pathImage": "/bancos/commbank-1.png"
+  },
+  {
+    "bankId": 94,
+    "name": "Commerzbank",
+    "pathImage": "/bancos/commerzbank-1.png"
+  },
+  {
+    "bankId": 95,
+    "name": "Cora",
+    "pathImage": "/bancos/corabank-1.png"
+  },
+  {
+    "bankId": 96,
+    "name": "Credicard",
+    "pathImage": "/bancos/credicard-1.png"
+  },
+  {
+    "bankId": 97,
+    "name": "Credit Bank of Moscow",
+    "pathImage": "/bancos/creditbankofmoscow.png"
+  },
+  {
+    "bankId": 98,
+    "name": "Credit agricole",
+    "pathImage": "/bancos/creditagricoleitalia.png"
+  },
+  {
+    "bankId": 99,
+    "name": "Credito Emiliano",
+    "pathImage": "/bancos/creditoemiliano.png"
+  },
+  {
+    "bankId": 100,
+    "name": "Cruzeirodosul",
+    "pathImage": "/bancos/cruzeirodosul.jpg"
+  },
+  {
+    "bankId": 101,
+    "name": "Crédit Agricole",
+    "pathImage": "/bancos/creditagricole-1.png"
+  },
+  {
+    "bankId": 102,
+    "name": "Crédit du Nord",
+    "pathImage": "/bancos/creditdunord-1.png"
+  },
+  {
+    "bankId": 103,
+    "name": "DNB",
+    "pathImage": "/bancos/dnbbank-1.png"
+  },
+  {
+    "bankId": 104,
+    "name": "DZ Bank",
+    "pathImage": "/bancos/dzbank-1.png"
+  },
+  {
+    "bankId": 105,
+    "name": "Danske",
+    "pathImage": "/bancos/danskebank-1.png"
+  },
+  {
+    "bankId": 106,
+    "name": "Davivienda",
+    "pathImage": "/bancos/bancodavivienda-1.png"
+  },
+  {
+    "bankId": 107,
+    "name": "Daycoval",
+    "pathImage": "/bancos/daycoval-1.png"
+  },
+  {
+    "bankId": 108,
+    "name": "Default",
+    "pathImage": "/bancos/default.png"
+  },
+  {
+    "bankId": 109,
+    "name": "Deutsche Bank",
+    "pathImage": "/bancos/deutschebank-1.png"
+  },
+  {
+    "bankId": 110,
+    "name": "Digi+",
+    "pathImage": "/bancos/digiplus-1.png"
+  },
+  {
+    "bankId": 111,
+    "name": "Digio",
+    "pathImage": "/bancos/digio.png"
+  },
+  {
+    "bankId": 112,
+    "name": "Diin",
+    "pathImage": "/bancos/diin-1.png"
+  },
+  {
+    "bankId": 113,
+    "name": "Diners",
+    "pathImage": "/bancos/diners.png"
+  },
+  {
+    "bankId": 114,
+    "name": "Elliot",
+    "pathImage": "/bancos/elliot-1.png"
+  },
+  {
+    "bankId": 115,
+    "name": "Elo",
+    "pathImage": "/bancos/elo.png"
+  },
+  {
+    "bankId": 116,
+    "name": "Eurobank",
+    "pathImage": "/bancos/eurobank-1.png"
+  },
+  {
+    "bankId": 117,
+    "name": "Evli",
+    "pathImage": "/bancos/evlibank-1.png"
+  },
+  {
+    "bankId": 118,
+    "name": "Flash",
+    "pathImage": "/bancos/flash.png"
+  },
+  {
+    "bankId": 119,
+    "name": "Forex",
+    "pathImage": "/bancos/forexbank-1.png"
+  },
+  {
+    "bankId": 120,
+    "name": "Fortbrasil",
+    "pathImage": "/bancos/fortbrasil-1.png"
+  },
+  {
+    "bankId": 121,
+    "name": "Galicia",
+    "pathImage": "/bancos/banco galicia-1.png"
+  },
+  {
+    "bankId": 122,
+    "name": "Garanti",
+    "pathImage": "/bancos/garantibank-1.png"
+  },
+  {
+    "bankId": 123,
+    "name": "Gazprombank",
+    "pathImage": "/bancos/gazprombank.png"
+  },
+  {
+    "bankId": 124,
+    "name": "Genial Investimentos",
+    "pathImage": "/bancos/genial-1.png"
+  },
+  {
+    "bankId": 125,
+    "name": "Goldman Sachs",
+    "pathImage": "/bancos/goldmansachs.png"
+  },
+  {
+    "bankId": 126,
+    "name": "HSBC",
+    "pathImage": "/bancos/hsbc.png"
+  },
+  {
+    "bankId": 127,
+    "name": "Handelsbanken",
+    "pathImage": "/bancos/handelsbanken-1.png"
+  },
+  {
+    "bankId": 128,
+    "name": "Hipercard",
+    "pathImage": "/bancos/hipercard.png"
+  },
+  {
+    "bankId": 129,
+    "name": "Hipotecario",
+    "pathImage": "/bancos/bancohipotecario-1.png"
+  },
+  {
+    "bankId": 130,
+    "name": "Hong Leong",
+    "pathImage": "/bancos/hongleong-1.png"
+  },
+  {
+    "bankId": 131,
+    "name": "HypoVereinsbank",
+    "pathImage": "/bancos/hypovereinsbank-1.png"
+  },
+  {
+    "bankId": 132,
+    "name": "ICBC",
+    "pathImage": "/bancos/icbc-1.png"
+  },
+  {
+    "bankId": 133,
+    "name": "ICCREA Banca",
+    "pathImage": "/bancos/iccreabanca.png"
+  },
+  {
+    "bankId": 134,
+    "name": "ING",
+    "pathImage": "/bancos/ing-1.png"
+  },
+  {
+    "bankId": 135,
+    "name": "IQ Option",
+    "pathImage": "/bancos/iqoption-1.png"
+  },
+  {
+    "bankId": 136,
+    "name": "Inbursa",
+    "pathImage": "/bancos/inbursa-1.png"
+  },
+  {
+    "bankId": 137,
+    "name": "Intesa Sanpaolo",
+    "pathImage": "/bancos/intesasanpaolo.png"
+  },
+  {
+    "bankId": 138,
+    "name": "Isbank",
+    "pathImage": "/bancos/isbank-1.png"
+  },
+  {
+    "bankId": 139,
+    "name": "Itaú",
+    "pathImage": "/bancos/itau.png"
+  },
+  {
+    "bankId": 140,
+    "name": "Iti",
+    "pathImage": "/bancos/iti-1.png"
+  },
+  {
+    "bankId": 141,
+    "name": "JP",
+    "pathImage": "/bancos/jpbank-1.png"
+  },
+  {
+    "bankId": 142,
+    "name": "JP Morgan Chase",
+    "pathImage": "/bancos/jpmorgan.png"
+  },
+  {
+    "bankId": 143,
+    "name": "Jyske",
+    "pathImage": "/bancos/jyskebank-1.png"
+  },
+  {
+    "bankId": 144,
+    "name": "KB Kookmin",
+    "pathImage": "/bancos/kbkookminbank-1.png"
+  },
+  {
+    "bankId": 145,
+    "name": "KBank",
+    "pathImage": "/bancos/kbank-1.png"
+  },
+  {
+    "bankId": 146,
+    "name": "KDB",
+    "pathImage": "/bancos/kdbbank-1.png"
+  },
+  {
+    "bankId": 147,
+    "name": "KEB Hana",
+    "pathImage": "/bancos/kebhanabank-1.png"
+  },
+  {
+    "bankId": 148,
+    "name": "KFW",
+    "pathImage": "/bancos/kfw-1.png"
+  },
+  {
+    "bankId": 149,
+    "name": "Krung Thai Bank",
+    "pathImage": "/bancos/krungthaibank-1.png"
+  },
+  {
+    "bankId": 150,
+    "name": "Lloyds Banking Group",
+    "pathImage": "/bancos/lloydsbanking-1.png"
+  },
+  {
+    "bankId": 151,
+    "name": "MUFG",
+    "pathImage": "/bancos/mufgbank-1.png"
+  },
+  {
+    "bankId": 152,
+    "name": "Macquarie",
+    "pathImage": "/bancos/macquariebank-1.png"
+  },
+  {
+    "bankId": 153,
+    "name": "Macro",
+    "pathImage": "/bancos/bancomacro-1.png"
+  },
+  {
+    "bankId": 154,
+    "name": "Magnetis",
+    "pathImage": "/bancos/magnetis-2.png"
+  },
+  {
+    "bankId": 155,
+    "name": "Mais!",
+    "pathImage": "/bancos/mais-1.png"
+  },
+  {
+    "bankId": 156,
+    "name": "Mandiri",
+    "pathImage": "/bancos/mandiri-1.png"
+  },
+  {
+    "bankId": 157,
+    "name": "Mastercard",
+    "pathImage": "/bancos/mastercard.png"
+  },
+  {
+    "bankId": 158,
+    "name": "Maybank",
+    "pathImage": "/bancos/maybank-1.png"
+  },
+  {
+    "bankId": 159,
+    "name": "MedioBanca",
+    "pathImage": "/bancos/mediobanca.png"
+  },
+  {
+    "bankId": 160,
+    "name": "Mercadopago",
+    "pathImage": "/bancos/mercadopago.png"
+  },
+  {
+    "bankId": 161,
+    "name": "Millenium BCP",
+    "pathImage": "/bancos/milleniumbcp-1.png"
+  },
+  {
+    "bankId": 162,
+    "name": "Mizuho",
+    "pathImage": "/bancos/mizuhobank-1.png"
+  },
+  {
+    "bankId": 163,
+    "name": "ModalMais",
+    "pathImage": "/bancos/modalmais-1.png"
+  },
+  {
+    "bankId": 164,
+    "name": "Moip",
+    "pathImage": "/bancos/moip.png"
+  },
+  {
+    "bankId": 165,
+    "name": "Monetus",
+    "pathImage": "/bancos/monetus-1.png"
+  },
+  {
+    "bankId": 166,
+    "name": "Morgan Stanley",
+    "pathImage": "/bancos/morganstanley.png"
+  },
+  {
+    "bankId": 167,
+    "name": "N26",
+    "pathImage": "/bancos/n26-1.png"
+  },
+  {
+    "bankId": 168,
+    "name": "NAB",
+    "pathImage": "/bancos/nab-1.png"
+  },
+  {
+    "bankId": 169,
+    "name": "NH",
+    "pathImage": "/bancos/nhbank-1.png"
+  },
+  {
+    "bankId": 170,
+    "name": "Nación",
+    "pathImage": "/bancos/banconacion-1.png"
+  },
+  {
+    "bankId": 171,
+    "name": "National Bank of Greece",
+    "pathImage": "/bancos/nationalbank-1.png"
+  },
+  {
+    "bankId": 172,
+    "name": "Neon",
+    "pathImage": "/bancos/neon.png"
+  },
+  {
+    "bankId": 173,
+    "name": "Next",
+    "pathImage": "/bancos/next.png"
+  },
+  {
+    "bankId": 174,
+    "name": "Nochu",
+    "pathImage": "/bancos/nochubank-1.png"
+  },
+  {
+    "bankId": 175,
+    "name": "Nordea",
+    "pathImage": "/bancos/nordea-1.png"
+  },
+  {
+    "bankId": 176,
+    "name": "Nordnet",
+    "pathImage": "/bancos/nordnet-1.png"
+  },
+  {
+    "bankId": 177,
+    "name": "Nova Futura",
+    "pathImage": "/bancos/novafatura-1.png"
+  },
+  {
+    "bankId": 178,
+    "name": "Novo Banco",
+    "pathImage": "/bancos/novobancopt-1.png"
+  },
+  {
+    "bankId": 179,
+    "name": "Nubank",
+    "pathImage": "/bancos/nubank.png"
+  },
+  {
+    "bankId": 180,
+    "name": "Nuconta",
+    "pathImage": "/bancos/nuconta.png"
+  },
+  {
+    "bankId": 181,
+    "name": "Nuinvest",
+    "pathImage": "/bancos/nuinvest-1.png"
+  },
+  {
+    "bankId": 182,
+    "name": "Nykredit",
+    "pathImage": "/bancos/nykredit-1.png"
+  },
+  {
+    "bankId": 183,
+    "name": "OP",
+    "pathImage": "/bancos/opbank-1.png"
+  },
+  {
+    "bankId": 184,
+    "name": "Original",
+    "pathImage": "/bancos/original.png"
+  },
+  {
+    "bankId": 185,
+    "name": "Otkritie",
+    "pathImage": "/bancos/otkritie.png"
+  },
+  {
+    "bankId": 186,
+    "name": "Outra",
+    "pathImage": "/bancos/default.jpg"
+  },
+  {
+    "bankId": 187,
+    "name": "PNC Financial Services",
+    "pathImage": "/bancos/pncfinancialservices-4.png"
+  },
+  {
+    "bankId": 188,
+    "name": "Pag!",
+    "pathImage": "/bancos/pag.png"
+  },
+  {
+    "bankId": 189,
+    "name": "PagBank",
+    "pathImage": "/bancos/pagbank-1.png"
+  },
+  {
+    "bankId": 190,
+    "name": "Pagseguro",
+    "pathImage": "/bancos/pagseguro.png"
+  },
+  {
+    "bankId": 191,
+    "name": "Patagonia",
+    "pathImage": "/bancos/bancopatagonia-1.png"
+  },
+  {
+    "bankId": 192,
+    "name": "PayU Brasil",
+    "pathImage": "/bancos/payu.png"
+  },
+  {
+    "bankId": 193,
+    "name": "Paypal",
+    "pathImage": "/bancos/paypal.png"
+  },
+  {
+    "bankId": 194,
+    "name": "PicPay",
+    "pathImage": "/bancos/picpay-1.png"
+  },
+  {
+    "bankId": 195,
+    "name": "Piraeus",
+    "pathImage": "/bancos/piraeusbank-1.png"
+  },
+  {
+    "bankId": 196,
+    "name": "Porto Seguro",
+    "pathImage": "/bancos/portoseguro-1.png"
+  },
+  {
+    "bankId": 197,
+    "name": "Promsvyazbank",
+    "pathImage": "/bancos/promsvyazbank.png"
+  },
+  {
+    "bankId": 198,
+    "name": "Public Bank",
+    "pathImage": "/bancos/publicbank-1.png"
+  },
+  {
+    "bankId": 199,
+    "name": "RBC Royal",
+    "pathImage": "/bancos/rbcroyalbank-1.png"
+  },
+  {
+    "bankId": 200,
+    "name": "RBS",
+    "pathImage": "/bancos/rbs-1.png"
+  },
+  {
+    "bankId": 201,
+    "name": "RHB",
+    "pathImage": "/bancos/rhbbank -1.png"
+  },
+  {
+    "bankId": 202,
+    "name": "Rabobank",
+    "pathImage": "/bancos/rabobank-1.png"
+  },
+  {
+    "bankId": 203,
+    "name": "Raiffeisen Bank",
+    "pathImage": "/bancos/raiffeisenbank.png"
+  },
+  {
+    "bankId": 204,
+    "name": "Recargapay",
+    "pathImage": "/bancos/recargapay-1.png"
+  },
+  {
+    "bankId": 205,
+    "name": "Revolut",
+    "pathImage": "/bancos/revolut-1.png"
+  },
+  {
+    "bankId": 206,
+    "name": "Rico",
+    "pathImage": "/bancos/rico.png"
+  },
+  {
+    "bankId": 207,
+    "name": "SCB",
+    "pathImage": "/bancos/scb-1.png"
+  },
+  {
+    "bankId": 208,
+    "name": "SEB",
+    "pathImage": "/bancos/sebbank-1.png"
+  },
+  {
+    "bankId": 209,
+    "name": "SMBC",
+    "pathImage": "/bancos/smbc-1.png"
+  },
+  {
+    "bankId": 210,
+    "name": "SMP Bank",
+    "pathImage": "/bancos/smpbank.png"
+  },
+  {
+    "bankId": 211,
+    "name": "SNS",
+    "pathImage": "/bancos/snsbank-1.png"
+  },
+  {
+    "bankId": 212,
+    "name": "Sabadell",
+    "pathImage": "/bancos/sabadell-1.png"
+  },
+  {
+    "bankId": 213,
+    "name": "Safra",
+    "pathImage": "/bancos/safra.png"
+  },
+  {
+    "bankId": 214,
+    "name": "Santander",
+    "pathImage": "/bancos/santander.png"
+  },
+  {
+    "bankId": 215,
+    "name": "Santander Espanha",
+    "pathImage": "/bancos/santanderesp-1.png"
+  },
+  {
+    "bankId": 216,
+    "name": "Santander México",
+    "pathImage": "/bancos/santandermex-1.png"
+  },
+  {
+    "bankId": 217,
+    "name": "Sberbank",
+    "pathImage": "/bancos/sberbank.png"
+  },
+  {
+    "bankId": 218,
+    "name": "Scotiabank",
+    "pathImage": "/bancos/scotiabank-1.png"
+  },
+  {
+    "bankId": 219,
+    "name": "Senff",
+    "pathImage": "/bancos/senff-1.png"
+  },
+  {
+    "bankId": 220,
+    "name": "Shinhan",
+    "pathImage": "/bancos/shinhanbank-1.png"
+  },
+  {
+    "bankId": 221,
+    "name": "Sicoob",
+    "pathImage": "/bancos/sicoob.png"
+  },
+  {
+    "bankId": 222,
+    "name": "Sicredi",
+    "pathImage": "/bancos/sicredi.png"
+  },
+  {
+    "bankId": 223,
+    "name": "Société Générale",
+    "pathImage": "/bancos/societegenerale-1.png"
+  },
+  {
+    "bankId": 224,
+    "name": "Sodexo",
+    "pathImage": "/bancos/sodexo-1.png"
+  },
+  {
+    "bankId": 225,
+    "name": "Sofisa direto",
+    "pathImage": "/bancos/sofisadireto-1.png"
+  },
+  {
+    "bankId": 226,
+    "name": "Sparebank 1 SMN",
+    "pathImage": "/bancos/sparebank1-1.png"
+  },
+  {
+    "bankId": 227,
+    "name": "Standard Chartered",
+    "pathImage": "/bancos/standardchartered-1.png"
+  },
+  {
+    "bankId": 228,
+    "name": "Storebrand",
+    "pathImage": "/bancos/storebrandbank -1.png"
+  },
+  {
+    "bankId": 229,
+    "name": "Submarino",
+    "pathImage": "/bancos/submarino-1.png"
+  },
+  {
+    "bankId": 230,
+    "name": "Suncorp",
+    "pathImage": "/bancos/suncorpbank-1.png"
+  },
+  {
+    "bankId": 231,
+    "name": "Superdigital",
+    "pathImage": "/bancos/superdigital-1.png"
+  },
+  {
+    "bankId": 232,
+    "name": "Swedbank",
+    "pathImage": "/bancos/swedbank-3.png"
+  },
+  {
+    "bankId": 233,
+    "name": "SydBank",
+    "pathImage": "/bancos/sydbank-1.png"
+  },
+  {
+    "bankId": 234,
+    "name": "TD Bank",
+    "pathImage": "/bancos/tdbank.png"
+  },
+  {
+    "bankId": 235,
+    "name": "TMB Bank",
+    "pathImage": "/bancos/tmbbank-1.png"
+  },
+  {
+    "bankId": 236,
+    "name": "Techcombank",
+    "pathImage": "/bancos/techcombank-1.png"
+  },
+  {
+    "bankId": 237,
+    "name": "Tesouro Direto",
+    "pathImage": "/bancos/tesourodireto-1.png"
+  },
+  {
+    "bankId": 238,
+    "name": "Tesouro Nacional",
+    "pathImage": "/bancos/tesouronacional-1.png"
+  },
+  {
+    "bankId": 239,
+    "name": "Ticket",
+    "pathImage": "/bancos/ticket.png"
+  },
+  {
+    "bankId": 240,
+    "name": "Tinkoff",
+    "pathImage": "/bancos/tinkoff-1.png"
+  },
+  {
+    "bankId": 241,
+    "name": "Toro Investimentos",
+    "pathImage": "/bancos/Toro-logo-app-1.png"
+  },
+  {
+    "bankId": 242,
+    "name": "TransferWise",
+    "pathImage": "/bancos/transferwise-1.png"
+  },
+  {
+    "bankId": 243,
+    "name": "Trigg",
+    "pathImage": "/bancos/trigg.png"
+  },
+  {
+    "bankId": 244,
+    "name": "UBI Banca",
+    "pathImage": "/bancos/ubibanca.png"
+  },
+  {
+    "bankId": 245,
+    "name": "US Bank",
+    "pathImage": "/bancos/usbank.png"
+  },
+  {
+    "bankId": 246,
+    "name": "UTIL",
+    "pathImage": "/bancos/util-1.png"
+  },
+  {
+    "bankId": 247,
+    "name": "Unicred",
+    "pathImage": "/bancos/unicred.png"
+  },
+  {
+    "bankId": 248,
+    "name": "Unicredit Bank",
+    "pathImage": "/bancos/unicreditbank.png"
+  },
+  {
+    "bankId": 249,
+    "name": "Unipol Banca",
+    "pathImage": "/bancos/unipolbanca.png"
+  },
+  {
+    "bankId": 250,
+    "name": "Uniprime",
+    "pathImage": "/bancos/uniprime-1.png"
+  },
+  {
+    "bankId": 251,
+    "name": "UrPay",
+    "pathImage": "/bancos/urpay-1.png"
+  },
+  {
+    "bankId": 252,
+    "name": "Urbe.Me",
+    "pathImage": "/bancos/urbeme.png"
+  },
+  {
+    "bankId": 253,
+    "name": "VTB",
+    "pathImage": "/bancos/vtbbank.png"
+  },
+  {
+    "bankId": 254,
+    "name": "Viacredi",
+    "pathImage": "/bancos/viacredi-1.png"
+  },
+  {
+    "bankId": 255,
+    "name": "Vietcombank",
+    "pathImage": "/bancos/vietcombank-1.png"
+  },
+  {
+    "bankId": 256,
+    "name": "VietinBank",
+    "pathImage": "/bancos/vietinbank-1.png"
+  },
+  {
+    "bankId": 257,
+    "name": "Visa",
+    "pathImage": "/bancos/visa.png"
+  },
+  {
+    "bankId": 258,
+    "name": "Warren",
+    "pathImage": "/bancos/warren.png"
+  },
+  {
+    "bankId": 259,
+    "name": "Wells Fargo",
+    "pathImage": "/bancos/wellsfargo.png"
+  },
+  {
+    "bankId": 260,
+    "name": "Westpac",
+    "pathImage": "/bancos/westpac-1.png"
+  },
+  {
+    "bankId": 261,
+    "name": "Will",
+    "pathImage": "/bancos/willbank-1.png"
+  },
+  {
+    "bankId": 262,
+    "name": "Woop",
+    "pathImage": "/bancos/woop-1.png"
+  },
+  {
+    "bankId": 263,
+    "name": "Xdex",
+    "pathImage": "/bancos/xdex-1.png"
+  },
+  {
+    "bankId": 264,
+    "name": "Xp Investimentos",
+    "pathImage": "/bancos/xp.png"
+  },
+  {
+    "bankId": 265,
+    "name": "Yapi Kredi Bank",
+    "pathImage": "/bancos/yapikredi-1.png"
+  },
+  {
+    "bankId": 266,
+    "name": "Ziraat",
+    "pathImage": "/bancos/ziraatbank-1.png"
+  },
+  {
+    "bankId": 267,
+    "name": "alelo",
+    "pathImage": "/bancos/alelo-5.png"
+  },
+  {
+    "bankId": 268,
+    "name": "bunq",
+    "pathImage": "/bancos/bunq-1.png"
+  },
+  {
+    "bankId": 269,
+    "name": "Órama",
+    "pathImage": "/bancos/orama-1.png"
+  }
+]
